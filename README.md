@@ -2,7 +2,7 @@
 
 Die Anwendung besteht aus zwei Views:
 
-1.) Beraterliste:
+## 1.) Beraterliste:
 
 In der Datei mockdata.js befindet sich eine Array aus Usern (Beratern).
 
@@ -14,7 +14,7 @@ Das folgende Desgin soll bei der Erstellung der Komponenten umgesetzt werden:
 
 Unter jedem Berater in der Liste befindet sich ein Button ("Berater\*in auswählen"). Ein Klick auf diesen Button öffnet das Profil des Beraters und führt zum zweiten View:
 
-2.) Profil des ausgewählten Beraters:
+## 2.) Profil des ausgewählten Beraters:
 
 Hier wird nur der Berater, der ausgewählt wurde dargestellt mit einem größeren Avatar. Dabei soll auch sein Onlinestatus ("online_status") ausgewiesen werden (Schriftfarbe grün für online und rot für offline). Ein Klick auf den Button "Berater\*in wechseln" führt zurück zur Beraterliste. Der Button "Beratung starten" hat keine Funktion.
 
@@ -22,7 +22,7 @@ Designvorlage:
 
 ![profile](./profile.png)
 
-Bonus:
+## Bonus:
 
 1.) Suche:
 Erstelle einen Input über der Beraterliste, mit dem man nach dem username des Beraters suchen kann. Beispiel: Eingabe von "Ma" führt dazu, dass nur die Berater "Max Mustermann" und "Marianne Wagner" dargestellt werden.
