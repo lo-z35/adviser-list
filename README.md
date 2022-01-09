@@ -16,7 +16,7 @@ Unter jedem Berater in der Liste befindet sich ein Button ("Berater\*in auswähl
 
 ## 2.) Profil des ausgewählten Beraters:
 
-Hier wird nur der Berater, der ausgewählt wurde dargestellt mit einem größeren Avatar. Dabei soll auch sein Onlinestatus (**online_status**) ausgewiesen werden (Schriftfarbe <span style="color:green">grün</span> für online und <span style="color:red">rot</span> für offline). Ein Klick auf den Button "Berater\*in wechseln" führt zurück zur Beraterliste. Der Button "Beratung starten" hat keine Funktion.
+Hier wird nur der Berater, der ausgewählt wurde dargestellt mit einem größeren Avatar. Dabei soll auch sein Onlinestatus (**online_status**) ausgewiesen werden (Schriftfarbe grün für online und rot für offline). Ein Klick auf den Button "Berater\*in wechseln" führt zurück zur Beraterliste. Der Button "Beratung starten" hat keine Funktion.
 
 Designvorlage:
 
