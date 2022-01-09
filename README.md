@@ -6,7 +6,7 @@ Die Anwendung besteht aus zwei Views:
 
 In der Datei mockdata.js befindet sich eine Array aus Usern (Beratern).
 
-Alle Berater der Array, deren **active**-Key true ist, sollen hier in einer Liste dargestellt werden. Dabei sollen **profile_picture** als runder Avatar, **username** als Überschrift, **beratungsfelder** als ungeordnete Liste sowie die **beschreibung** des jeweiligen Beraters ausgewiesen werden.
+Alle Berater der Array, deren **active**-Key **true** ist, sollen hier in einer Liste dargestellt werden. Dabei sollen **profile_picture** als runder Avatar, **username** als Überschrift, **beratungsfelder** als ungeordnete Liste sowie die **beschreibung** des jeweiligen Beraters ausgewiesen werden.
 
 Das folgende Desgin soll bei der Erstellung der Komponenten umgesetzt werden:
 
